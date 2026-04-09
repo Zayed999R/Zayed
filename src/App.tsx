@@ -273,3 +273,5 @@ export default function App() {
     </div>
   );
 }
+
+Remove menu button 
